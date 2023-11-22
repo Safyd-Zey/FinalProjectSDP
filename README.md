@@ -27,7 +27,7 @@ The Online Course Platform is a Java-based application designed to efficiently p
 
 ### Singleton Pattern
 
-In our project, the Singleton pattern is applied to the `UserManager` class, ensuring a singular instance for centralized user management. This design choice establishes a global point for user-related operations, promoting efficiency by preventing unnecessary object instantiation.
+In our project, the Singleton pattern is applied to the class, ensuring a singular instance for centralized user management. This design choice establishes a global point for user-related operations, promoting efficiency by preventing unnecessary object instantiation.
 
 ### Strategy Patern
 
