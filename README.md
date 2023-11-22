@@ -33,11 +33,11 @@ In our project, the Singleton pattern is applied to the `UserManager` class, ens
 
 Strategy Design Pattern is used to select delivery methods. This construct includes an abstract class that defines the general delivery method and classes that dynamically control the delivery strategy. Specific implementations encapsulate specific delivery methods, allowing users to select and apply different delivery strategies during the product purchasing process.
 
-###Adapter pattern
+### Adapter pattern
 
 The adapter pattern resolves the interface mismatch between Barcode and Product. The OldBarcodeAdapter class acts as an intermediary, adapting the Product interface to the Barcode interface, facilitating integration into the broader structure of the online course platform application.
 
-###Decorator Pattern
+### Decorator Pattern
 
 Decorator Design Pattern is used to add a discount system. We have an abstract class Discounts, which contains the logic of specific classes. Discounts: holiday, preferential, for regular customers. You can add discounts and they add up
 
