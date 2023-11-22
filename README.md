@@ -17,7 +17,7 @@
   - [Decorator Pattern](#decorator-pattern)
   - [Factory Pattern](#factory-pattern)
   - [Observer Pattern](#observer-pattern)
-- [UML Diagram](#uml-diagram)
+
   
 ## Project Description
 
@@ -50,5 +50,3 @@ The Factory pattern is used to facilitate the dynamic creation of various produc
 
 The Observer pattern is used to provide a connection between Observers and observed changes. This pattern allows for a loosely coupled design where the platform can receive notifications without explicit knowledge of their individual details.
 
-## UML Diagram
-![Platform Image](https://github.com/Tileukhan/OnlineCoursePlatformProject/assets/116358731/5ceadabe-5a58-4eb5-a3bb-9ffaa333e3c7)
